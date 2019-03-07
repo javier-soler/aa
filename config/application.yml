@@ -1,0 +1,5 @@
+voyvas:
+  main-db:
+    url: "jdbc:mysql://localhost:3306/voyvas?useLegacyDatetimeCode=false&serverTimezone=UTC"
+    user: voyvas
+    password: 1qazxsw2

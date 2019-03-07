@@ -1,0 +1,20 @@
+server:
+  port: 9020
+  use-forward-headers: true
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:9000/eureka
+spring:
+  h2:
+    console:
+      path: /h2-console    
+      
+security:
+  oauth2:
+    resource:
+      jwt:
+        key-value: abc     
+logging:
+  level:
+    org.springframework.security: DEBUG           

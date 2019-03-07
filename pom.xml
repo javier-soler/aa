@@ -19,11 +19,11 @@
         <voyvas.version>0.0.1-SNAPSHOT</voyvas.version>
     </properties>
     <modules>
-        <module>../VoyVasCommon</module>
-        <module>../VoyVasUser</module>
-        <module>../VoyVasAuth</module>
-        <module>../VoyVasUI</module>
-        <module>../VoyVasConfig</module>
-        <module>../VoyVasEureka</module>
+        <module>VoyVasCommon</module>
+        <module>VoyVasUser</module>
+        <module>VoyVasAuth</module>
+        <module>VoyVasUI</module>
+        <module>VoyVasConfig</module>
+        <module>VoyVasEureka</module>
     </modules>
 </project>
